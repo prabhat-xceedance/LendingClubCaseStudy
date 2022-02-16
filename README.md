@@ -1,6 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
-
+# Lending Club Case Study
+The objective of the study is to provide the company with factors that help in analyzing loan applications and minimizing business loss and/or financial loss.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -8,41 +7,30 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- This is the Lending Club Case Study for a financial company that helps them make a decision to take action on loan applications.
+- The data set used for this study is the loan data from the year 2007 to 2011
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- At the end of the study, driving factors/variables are identified which help the company analyze a loan application.
+- The company can make a decision on whether to accept or reject a loan.
+- If the company decides to accept the application, the interest rate, tenure, etc. can be decided.
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- numpy - 1.20.3
+- pandas - 1.3.4
+- matplotlib.pyplot - 3.4.3
+- seaborn - 0.11.2
+- re - 2.2.1
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- The contributors of the study are Prabhat Sharma and Brij Bhushan Paliwal
+- This is part of an assignment for upGrad
+- Advanced Certificate Programme in Machine Learning and Deep Learning
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by https://github.com/prabhat-xceedance - feel free to contact me!
 
 
 <!-- Optional -->
